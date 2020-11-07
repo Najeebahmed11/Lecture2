@@ -38,7 +38,7 @@
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="10"
-                android:text="Data"
+                android:text="Clear 30C  Feel like 28C"
                 android:textSize="30dp"
                 android:visibility="visible" />
         </LinearLayout>
@@ -57,7 +57,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:padding="10dp"
-            android:text="Do not" />
+            android:text="Pressure \n 250 hp" />
 
 
         <TextView
@@ -66,7 +66,7 @@
             android:layout_height="match_parent"
             android:padding="10dp"
 
-            android:text="123444" />
+            android:text="Wind \n 35msa" />
     </LinearLayout>
 
     <LinearLayout
@@ -80,7 +80,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:padding="10dp"
-            android:text="sunset" />
+            android:text="Sunrise \n 5:35 AM" />
 
 
         <TextView
@@ -88,7 +88,7 @@
             android:layout_height="match_parent"
             android:padding="10dp"
 
-            android:text="123442" />
+            android:text="Sunset \n 6:25 Pm" />
     </LinearLayout>
 
     <LinearLayout
@@ -102,7 +102,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:padding="10dp"
-            android:text="sunrise" />
+            android:text="Clouds \n scattered" />
 
 
         <TextView
@@ -110,7 +110,7 @@
             android:layout_height="match_parent"
             android:padding="10dp"
 
-            android:text="123444" />
+            android:text="Humadity \n 45%" />
     </LinearLayout>
 
 </LinearLayout>
